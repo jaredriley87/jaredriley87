@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Jared Riley! I'm currently working on my GAM 303 classwork and learning Programming and Game Development. 
+## Hi there 👋 My name is Jared Riley! I'm currently working on my  classwork and learning Programming and Game Development. 
 
 <!--
 **jaredriley87/jaredriley87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
